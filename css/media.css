@@ -1,0 +1,739 @@
+/* Extra large devices */
+@media (min-width: 1200px) { 
+    .watch p {
+        padding-left: 235px;
+    }
+    .rightmark p {
+        padding-left: 19px;
+    }
+    .rightmark i {
+        top: 5px;
+        left: 20px;
+    }
+    .lefttmark {
+        padding-left: 214px;
+        padding-top: 3px;
+    }
+}
+
+/* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .bannerlefttext p {
+        font-size: 18px;
+    }
+    .bannerlefttext h1 {
+        font-size: 48px;
+        padding-bottom: 15px;
+    }
+    #BannerPart {
+        padding-bottom: 70px;
+    }
+    .selectposition {
+        display: inline-block;
+        margin-left: 150px;
+    }
+    .parcentoff p {
+        left: 219px;
+    }
+    .trh2orstaricon2 {
+        left: 230px;
+    }
+    .watch p {
+        padding-left: 193px;
+    }
+    .rightmark {
+        padding-left: 5px;
+    }
+    .rightmark i {
+        left: 16px;
+    }
+    .lefttmark {
+        padding-left: 167px;
+        margin-top: 3px;
+    }
+    .lefttmark p {
+        left: -25px;
+    }
+    .tourthreetxt {
+        text-align: center;
+    }
+    .tourtwotext{
+        text-align: center;
+    }
+    .tourtwotext h2 {
+        color: #1D293F;
+        font-size: 25px;
+        padding-top: 74px;
+    }
+    .quesonetext p {
+        left: 131px;
+    }
+    .quesonetext h2 {
+        left: 131px;
+    }
+    .lasttexttext h3 {
+        padding-left: 172px;
+    }
+    .lastitemthree p {
+        text-align: center;
+    }
+    .lastitemthreeone p {
+        text-align: center;
+    }
+    .lastitemthreeone h3 {
+        text-align: center;
+    }
+
+}
+
+/* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .navbar-toggler {
+        color:#fff ;
+        font-size: 25px;
+    }
+    .navbar-brand img{
+        margin-left: 15px;
+    }
+    .navbar-nav {
+        background: #E81A46;
+        border-radius: 10px;
+        text-align: center;
+    }
+    .bannerlefttext p {
+        font-size: 18px;
+    }
+    .bannerlefttext h1 {
+        font-size: 48px;
+        padding-bottom: 15px;
+    }
+    #BannerPart {
+        padding-bottom: 0px;
+    }
+    .selectbg {
+        padding: 45px 0;
+    }
+    .selecttext{
+        text-align: center;
+    }
+    .selecttext h3 {
+        padding-bottom: 5px;
+    }
+    .selecttext p {
+       margin-bottom: 0;
+    }
+    .selecttextitm {
+        width: 80%;
+        margin-left: 70px;
+    }
+    .selectposition {
+        display: inline-block;
+        margin-left: 273px;
+    }
+    .selecttexticon{
+        text-align: center;
+    }
+    .trandingtext{
+        text-align: center;
+    }
+    .trandingtext h3 {
+        padding-bottom: 0px;
+    }
+    .trenimges img {
+        margin: 0 29px;
+    }
+    .trandingitm .off p{
+        position: absolute;
+        top: 10px;
+        left: 601px;
+}
+    .parcentoff p {
+        position: absolute;
+        top: 10px;
+        left: 441px;
+    }
+    .treandtext{
+        text-align: center;
+    }
+    .treandtext p {
+        padding-left: 0;
+    }
+    .treandtext h4 {
+        padding-left: 0;
+        padding-top: 0;
+    }
+    .trh2orstaricontxt h2 {
+        font-size: 24px;
+       padding-right: 162px;
+    }
+    .trh2orstaricontxt p {
+       padding-right: 128px;
+    }
+    .trh2orstaricon2 {
+        position: absolute;
+        top: 17px;
+        left: 390px;
+    }
+    .watch {
+        margin-left: 65px;
+    }
+    .tricortx i {
+        padding-bottom: 10px;
+    }
+    .watch {
+        display: flex;
+        padding-left: 205px;
+    }
+    .watch p {
+        padding-left: 108px;
+    }
+    .rightmark p {
+        padding-left: 120px;
+    }
+    .rightmark i {
+        color: #28B0A6;
+        font-size: 15px;
+        position: absolute;
+        top: 6px;
+        left: 164px;
+    }
+    .rightmark {
+        padding-left: 65px;
+        position: absolute;
+        top: 0px;
+        left: 0;
+    }
+    .lefttmark i {
+        left: 80px;
+    }
+    .lefttmark {
+        padding-left: 28px;
+    }
+    .lefttmark p {
+        position: absolute;
+        top: 0;
+        left: 391px;
+    }
+    .desposition {
+        margin-bottom: 20px;
+    }
+    .bothrightleft {
+        position: relative;
+    }
+    .desimgss img {
+        margin-top: 0;
+    }
+    .desimgfour img {
+        margin-bottom: 20px;
+    }
+    .Destinationsbg {
+        padding: 0px 0;
+    }
+    .trandingBg {
+      padding-bottom: 0;
+    }
+    .seller .off p{
+        position: absolute;
+        top: 10px;
+        left: 639px;
+}
+    .tourBg {
+       padding-top: 0;
+    }
+    .tourtwotext{
+        text-align: center;
+    }
+    .tourtwotext h2 {
+        padding-top: 0;
+    }
+    .tourtwotext h3 {
+        padding-top: 15px;
+    }
+    .tourtwotext p{
+        padding-left: 5px;
+    }
+    .tourthreetxt{
+        text-align: center;
+    }
+    .tourthreetxt h3 {
+        padding-top: 75px;
+    }
+    .tourimgs {
+        margin-top: 20px;
+    }
+    .worldBg {
+        padding-bottom: 15px;
+    }
+    .advimg img {
+        margin-left: 108px;
+        width: 70%;
+        margin-bottom: 50px;
+    }
+    #Adventures {
+        padding-top: 47px;
+        padding-bottom: 20px;
+    }
+    .quesonetext p {
+        left: 295px;
+    }
+    .quesonetext h2 {
+        left: 295px;
+    }
+    .lasttexttext h3 {
+        padding-left: 4px;
+    }
+    .lastitemthree h3 {
+        text-align: center;
+    }
+    .lastitemthree p {
+        text-align: center;
+    }
+    .lastitemthreeone h3 {
+        text-align: center;
+        padding-top: 20px;
+    }
+    .lastitemthreeone p {
+        text-align: center;
+    }
+    .lasttextlastpart{
+        text-align: center;
+        padding-top: 30px;
+    }
+    .lasttexttwoprivacy{
+        text-align: center;
+    }
+    .lasttexttexttwotextmedia{
+        text-align: center;
+    }
+    .lasttexttwoprivacylast{
+        text-align: center;
+    }
+}
+
+/* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler {
+        color:#fff ;
+        font-size: 25px;
+    }
+    .navbar-brand img{
+        margin-left: 15px;
+    }
+    .navbar-nav {
+        background: #E81A46;
+        border-radius: 10px;
+        text-align: center;
+    }
+    .bannerlefttext p {
+        font-size: 18px;
+    }
+    .bannerlefttext h1 {
+        font-size: 48px;
+        padding-bottom: 15px;
+    }
+    #BannerPart {
+        padding-bottom: 0px;
+    }
+    .selectbg {
+        padding: 45px 0;
+    }
+    .selecttext{
+        text-align: center;
+    }
+    .selecttext h3 {
+        padding-bottom: 5px;
+    }
+    .selecttext p {
+       margin-bottom: 0;
+    }
+    .selecttextitm {
+        width: 80%;
+        margin-left: 59px;
+    }
+    .selectposition {
+        display: inline-block;
+        margin-left: 215px;
+    }
+    .selecttexticon{
+        text-align: center;
+    }
+    .trandingtext{
+        text-align: center;
+    }
+    .trandingtext h3 {
+        padding-bottom: 0px;
+    }
+    .trenimges img {
+        margin: 0 29px;
+    }
+    .parcentoff p {
+        position: absolute;
+        top: 10px;
+        left: 441px;
+    }
+    .treandtext{
+        text-align: center;
+    }
+    .treandtext p {
+        padding-left: 0;
+    }
+    .treandtext h4 {
+        padding-left: 0;
+        padding-top: 0;
+    }
+    .trh2orstaricontxt h2 {
+        font-size: 24px;
+       padding-right: 162px;
+    }
+    .trh2orstaricontxt p {
+       padding-right: 128px;
+    }
+    .trh2orstaricon2 {
+        position: absolute;
+        top: 17px;
+        left: 330px;
+    }
+    .tricortx i {
+        padding-bottom: 10px;
+    }
+    .watch {
+        display: flex;
+        padding-left: 205px;
+    }
+    .watch p {
+        padding-left: 108px;
+    }
+    .rightmark p {
+        padding-left: 120px;
+    }
+    .rightmark i {
+        left: 119px;
+    }
+    .lefttmark i {
+        left: 80px;
+    }
+    .lefttmark p {
+        position: absolute;
+        top: 0;
+        left: 312px;
+    }
+    .desposition {
+        margin-bottom: 20px;
+    }
+    .bothrightleft {
+        position: relative;
+    }
+    .desimgss img {
+        margin-top: 0;
+    }
+    .desimgfour img {
+        margin-bottom: 20px;
+    }
+    .Destinationsbg {
+        padding: 0px 0;
+    }
+    .trandingBg {
+      padding-bottom: 0;
+    }
+    .tourBg {
+       padding-top: 0;
+    }
+    .tourtwotext{
+        text-align: center;
+    }
+    .tourtwotext h2 {
+        padding-top: 0;
+    }
+    .tourtwotext h3 {
+        padding-top: 15px;
+    }
+    .tourtwotext p{
+        padding-left: 5px;
+    }
+    .tourthreetxt{
+        text-align: center;
+    }
+    .tourthreetxt h3 {
+        padding-top: 75px;
+    }
+    .tourimgs {
+        margin-top: 20px;
+    }
+    .worldBg {
+        padding-bottom: 15px;
+    }
+    .advimg img {
+        margin-left: 86px;
+        width: 70%;
+        margin-bottom: 50px;
+    }
+    #Adventures {
+        padding-top: 47px;
+        padding-bottom: 20px;
+    }
+    .quesonetext p {
+        left: 199px;
+    }
+    .quesonetext h2 {
+        left: 199px;
+    }
+    .lasttexttext h3 {
+        padding-left: 4px;
+    }
+    .lastitemthree h3 {
+        text-align: center;
+    }
+    .lastitemthree p {
+        text-align: center;
+    }
+    .lastitemthreeone h3 {
+        text-align: center;
+        padding-top: 20px;
+    }
+    .lastitemthreeone p {
+        text-align: center;
+    }
+    .lasttextlastpart{
+        text-align: center;
+        padding-top: 30px;
+    }
+    .lasttexttwoprivacy{
+        text-align: center;
+    }
+    .lasttexttexttwotextmedia{
+        text-align: center;
+    }
+    .lasttexttwoprivacylast{
+        text-align: center;
+    }
+}
+
+/* Extra small devices */
+@media (max-width: 575.98px) {
+    .navbar-toggler i{
+        color:#fff ;
+        font-size: 25px;
+    }
+    .navbar-brand img{
+        margin-left: 15px;
+    }
+    .navbar-nav {
+        background: #E81A46;
+        border-radius: 10px;
+        text-align: center;
+    }
+    .bannerlefttext p {
+        font-size: 18px;
+    }
+    .bannerlefttext h1 {
+        font-size: 48px;
+        padding-bottom: 15px;
+    }
+    #BannerPart {
+        padding-bottom: 0px;
+    }
+    .selectbg {
+        padding: 45px 0;
+    }
+    .selecttext{
+        text-align: center;
+    }
+    .selecttext h3 {
+        padding-bottom: 5px;
+    }
+    .selecttext p {
+       margin-bottom: 0;
+    }
+    .selecttextitm {
+        width: 80%;
+        margin-left: 59px;
+    }
+    .selectposition {
+        display: inline-block;
+        margin-left: 215px;
+    }
+    .selecttexticon{
+        text-align: center;
+    }
+    .trandingtext{
+        text-align: center;
+    }
+    .trandingtext h3 {
+        padding-bottom: 0px;
+    }
+    .trenimges img {
+        margin: 0 29px;
+    }
+    .parcentoff p {
+        position: absolute;
+        top: 10px;
+        left: 470px;
+    }
+    .treandtext{
+        text-align: center;
+    }
+    .treandtext p {
+        padding-left: 0;
+    }
+    .treandtext h4 {
+        padding-left: 0;
+        padding-top: 0;
+    }
+    .trh2orstaricontxt h2 {
+        font-size: 24px;
+       padding-right: 162px;
+    }
+    .trh2orstaricontxt p {
+       padding-right: 128px;
+    }
+    .trh2orstaricon2 {
+        position: absolute;
+        top: 17px;
+        left: 330px;
+    }
+    .tricortx i {
+        padding-bottom: 10px;
+    }
+    .watch {
+        display: flex;
+        padding-left: 205px;
+    }
+    .watch p {
+        padding-left: 108px;
+    }
+    .rightmark p {
+        padding-left: 120px;
+    }
+    .rightmark i {
+        left: 119px;
+    }
+    .lefttmark i {
+        left: 80px;
+    }
+    .lefttmark p {
+        position: absolute;
+        top: 0;
+        left: 312px;
+    }
+    .desposition {
+        margin-bottom: 20px;
+    }
+    .bothrightleft {
+        position: relative;
+    }
+    .desimgss img {
+        margin-top: 0;
+    }
+    .desimgfour img {
+        margin-bottom: 20px;
+    }
+    .Destinationsbg {
+        padding: 0px 0;
+    }
+    .trandingBg {
+      padding-bottom: 0;
+    }
+    .tourBg {
+       padding-top: 0;
+    }
+    .tourtwotext{
+        text-align: center;
+    }
+    .tourtwotext h2 {
+        padding-top: 0;
+    }
+    .tourtwotext h3 {
+        padding-top: 15px;
+    }
+    .tourtwotext p{
+        padding-left: 5px;
+    }
+    .tourthreetxt{
+        text-align: center;
+    }
+    .tourthreetxt h3 {
+        padding-top: 75px;
+    }
+    .tourimgs {
+        margin-top: 20px;
+    }
+    .worldBg {
+        padding-bottom: 15px;
+    }
+    .advimg img {
+        margin-left: 86px;
+        width: 70%;
+        margin-bottom: 50px;
+    }
+    #Adventures {
+        padding-top: 47px;
+        padding-bottom: 20px;
+    }
+    .quesonetext p {
+        left: 215px;
+    }
+    .quesonetext h2 {
+        left: 215px;
+    }
+    .lasttexttext h3 {
+        padding-left: 4px;
+    }
+    .lastitemthree h3 {
+        text-align: center;
+    }
+    .lastitemthree p {
+        text-align: center;
+    }
+    .lastitemthreeone h3 {
+        text-align: center;
+        padding-top: 20px;
+    }
+    .lastitemthreeone p {
+        text-align: center;
+    }
+    .lasttextlastpart{
+        text-align: center;
+        padding-top: 30px;
+    }
+    .lasttexttwoprivacy{
+        text-align: center;
+    }
+    .lasttexttexttwotextmedia{
+        text-align: center;
+    }
+    .lasttexttwoprivacylast{
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ }
